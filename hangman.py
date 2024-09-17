@@ -65,7 +65,7 @@ for each in random_word:
     display1 += "_ "
 
 print(display1)
-print(random_word)
+
 
 while game_over != True:
     display2 = ""
